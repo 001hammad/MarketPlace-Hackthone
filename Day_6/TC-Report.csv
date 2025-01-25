@@ -1,0 +1,7 @@
+TestCase ID ,,Description,,,Steps,Expected Result,,,Actual Result,,Status,Severity,,Remarks,
+TC001,,validate home page loading,,,open page,Page display correctly,,,Displayed correctly,,Passed,Medium,,No issue found,
+TC002,,validate product listing page,,,open page,displayed correctly,,,Displayed correctly,,passed,Medium,,No issue found,
+TC003,,Test api error handling,,,refresh page,, show fallback ui with error message,,,,passed,Medium,,Handled gracfully,acefully
+TC004,,Add to cart,,,product added in cart,,update correctly,,update currectly,,passed,High,,No isse found,
+TC005,,check layout,,,layout adjust prpoperly,,,,responsivefully,,passed,High,,No isse found,
+TC006,,Product search functionality,,,search valid/invalid,,,,relevant result or error,,Passed,Medium,,No isse found,
